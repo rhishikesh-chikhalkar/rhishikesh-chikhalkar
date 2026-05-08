@@ -33,22 +33,34 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,javascript" />
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,java,javascript"
+    height="40"
+  />
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx" />
+  <img
+    src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx"
+    height="40"
+  />
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"
+    height="40"
+  />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,bitbucket,postman"
+    height="40"
+  />
 </p>
 
 ---
