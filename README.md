@@ -164,7 +164,7 @@ Recognized among the top 3% performers across Infosys for technical excellence, 
 <p align="left">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhishikesh-chikhalkar&theme=tokyonight"
-    width="450"
+    width="380"
   />
 </p>
 
@@ -175,6 +175,7 @@ Recognized among the top 3% performers across Infosys for technical excellence, 
 <p align="left">
   <img
     src="https://streak-stats.demolab.com?user=rhishikesh-chikhalkar&theme=tokyonight"
+    width="420"
   />
 </p>
 
@@ -182,7 +183,12 @@ Recognized among the top 3% performers across Infosys for technical excellence, 
 
 ## 📊 GitHub Activity Graph
 
-[![Rhishikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rhishikesh-chikhalkar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rhishikesh-chikhalkar&theme=tokyo-night"
+    width="850"
+  />
+</p>
 
 ---
 
