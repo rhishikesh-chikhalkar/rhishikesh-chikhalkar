@@ -6,7 +6,6 @@
   <img
     src="https://komarev.com/ghpvc/?username=rhishikesh-chikhalkar&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Profile Views"
-    style="pointer-events: none;"
   />
 </p>
 
@@ -16,9 +15,10 @@
 
 Senior Python Backend Engineer focused on building scalable cloud-native APIs using FastAPI, AWS, PostgreSQL, Docker, and Kubernetes.
 
-Experienced in designing production-grade backend systems, microservices, CI/CD pipelines, and distributed architectures.
+Experienced in designing production-grade backend systems, microservices, CI/CD pipelines, distributed architectures, and cloud-native deployments.
 
 ### Core Focus Areas
+
 - High-performance backend APIs
 - Cloud-native application development
 - Distributed systems & microservices
@@ -26,16 +26,16 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
 - CI/CD automation
 - Database optimization
 - AI-integrated backend systems
+- Infrastructure automation
 
 ---
 
 ## 🛠 Tech Stack
 
 #### Backend
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 #### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
@@ -65,7 +65,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Production Work
 
 ### 🚀 Portfolio Metrics API
 
@@ -77,6 +77,7 @@ Production-grade FastAPI platform for portfolio analytics, forecasting, and fina
 - Dockerized deployment pipeline
 - AWS-ready infrastructure
 - CI/CD integration
+- Production monitoring & logging
 
 #### Tech Used
 `Python` `FastAPI` `PostgreSQL` `Docker` `AWS`
@@ -93,6 +94,7 @@ Scalable backend platform designed for Kubernetes deployments, observability, in
 - Environment-based configurations
 - Infrastructure automation
 - API-first backend design
+- Cloud-native deployment workflows
 
 #### Tech Used
 `Python` `FastAPI` `Kubernetes` `Docker` `AWS`
@@ -106,9 +108,9 @@ Backend systems integrating LLM APIs, workflow automation, and scalable AI orche
 #### Focus Areas
 - AI API orchestration
 - Workflow automation
+- Async processing systems
 - Scalable AI services
 - Cloud deployment patterns
-- Async processing systems
 
 ---
 
@@ -119,19 +121,27 @@ Backend systems integrating LLM APIs, workflow automation, and scalable AI orche
 - Kubernetes production scaling
 - High-performance async Python
 - Cloud automation workflows
+- System design patterns
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhishikesh-chikhalkar&theme=tokyonight)
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhishikesh-chikhalkar&theme=tokyonight"
+    width="450"
+  />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=rhishikesh-chikhalkar&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=rhishikesh-chikhalkar&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -156,15 +166,9 @@ Backend systems integrating LLM APIs, workflow automation, and scalable AI orche
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/rhishikesh-chikhalkar" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhishikesh-chikhalkar)
 
-  <a href="mailto:rhishichikhalkar21@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rhishichikhalkar21@gmail.com)
 
 ---
 
