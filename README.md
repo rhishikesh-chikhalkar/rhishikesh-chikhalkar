@@ -3,7 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&width=850&lines=Senior+Python+Backend+Engineer;FastAPI+%7C+AWS+%7C+Kubernetes;Building+Scalable+Production+Systems;Cloud-Native+Backend+Developer;Distributed+Systems+%26+DevOps)](https://git.io/typing-svg)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rhishikesh-chikhalkar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=rhishikesh-chikhalkar&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+    style="pointer-events: none;"
+  />
 </p>
 
 ---
