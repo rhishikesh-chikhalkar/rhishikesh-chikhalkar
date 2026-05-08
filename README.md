@@ -35,7 +35,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=python,fastapi,java,javascript"
-    height="40"
+    height="30"
   />
 </p>
 
@@ -43,7 +43,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx"
-    height="40"
+    height="30"
   />
 </p>
 
@@ -51,7 +51,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"
-    height="40"
+    height="30"
   />
 </p>
 
@@ -59,7 +59,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=git,github,bitbucket,postman"
-    height="40"
+    height="30"
   />
 </p>
 
