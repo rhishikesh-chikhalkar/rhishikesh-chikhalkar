@@ -118,7 +118,7 @@ Backend systems integrating LLM APIs, workflow automation, and scalable AI orche
 
 ## 🔥 Contribution Streak
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=rhishikesh-chikhalkar&theme=tokyonight" />
 </p>
 
@@ -138,7 +138,7 @@ Backend systems integrating LLM APIs, workflow automation, and scalable AI orche
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/rhishikesh-chikhalkar/rhishikesh-chikhalkar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rhishikesh-chikhalkar/rhishikesh-chikhalkar/output/github-contribution-grid-snake.svg)
 
 ---
 
