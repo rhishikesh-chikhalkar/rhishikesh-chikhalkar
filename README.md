@@ -159,17 +159,6 @@ Recognized among the top 3% performers across Infosys for technical excellence, 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhishikesh-chikhalkar&theme=tokyonight"
-    width="380"
-  />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="left">
