@@ -148,11 +148,11 @@ Backend systems integrating LLM APIs, workflow automation, and scalable AI orche
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/rhishikesh-chikhalkar" target="blank">
+  <a href="https://linkedin.com/in/rhishikesh-chikhalkar" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 
-  <a href="mailto:rhishichikhalkar21@gmail.com">
+  <a href="mailto:rhishichikhalkar21@gmail.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
