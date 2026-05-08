@@ -31,7 +31,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
 
 ## 🛠 Tech Stack
 
-### Backend
+#### Backend
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=python,fastapi,java,javascript"
@@ -39,7 +39,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
   />
 </p>
 
-### Cloud & DevOps
+#### Cloud & DevOps
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx"
@@ -47,7 +47,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
   />
 </p>
 
-### Databases
+#### Databases
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"
@@ -55,7 +55,7 @@ Experienced in designing production-grade backend systems, microservices, CI/CD 
   />
 </p>
 
-### Tools & Platforms
+#### Tools & Platforms
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=git,github,bitbucket,postman"
