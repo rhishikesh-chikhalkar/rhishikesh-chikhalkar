@@ -13,8 +13,7 @@
 
 ## 🚀 About Me
 
-Senior Python Backend Engineer with 4+ years of experience building scalable cloud-native backend systems using FastAPI, Django, PostgreSQL, Docker, Kubernetes, and AWS.
-
+Senior Backend Engineer with 4+ years of experience building scalable cloud-native backend systems using FastAPI, Django, PostgreSQL, Docker, Kubernetes, and AWS.
 Experienced in designing production-grade microservices, optimizing high-volume financial data workflows, deploying applications on AWS EKS, and debugging distributed systems in Kubernetes environments.
 
 ---
