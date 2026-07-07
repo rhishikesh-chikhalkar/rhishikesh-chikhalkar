@@ -19,46 +19,6 @@ Experienced in designing production-grade microservices, optimizing high-volume 
 
 ---
 
-## 📚 Currently Working With
-
-- FastAPI microservices
-- Kubernetes & AWS EKS
-- Distributed backend systems
-- Async Python processing
-- AI-integrated backend services
-- Production observability workflows
-- System design & scalability patterns
-
----
-
-## 🔥 Contribution Streak
-
-<p align="left">
-  <img
-    src="https://streak-stats.demolab.com?user=rhishikesh-chikhalkar&theme=tokyonight"
-    width="420"
-  />
-</p>
-
----
-
-## 📊 GitHub Activity Graph
-
-<p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rhishikesh-chikhalkar&theme=tokyo-night"
-    width="850"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rhishikesh-chikhalkar&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/rhishikesh-chikhalkar/rhishikesh-chikhalkar/output/github-contribution-grid-snake.svg)
@@ -67,9 +27,7 @@ Experienced in designing production-grade microservices, optimizing high-volume 
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhishikesh-chikhalkar)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rhishichikhalkar21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhishikesh-chikhalkar) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rhishichikhalkar21@gmail.com)
 
 ---
 
